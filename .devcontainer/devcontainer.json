@@ -1,0 +1,7 @@
+{
+  // 以下のイメージは公式のデフォルト
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers-extra/features/mise:1": {}
+  }
+}
